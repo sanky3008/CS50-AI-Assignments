@@ -1,0 +1,6 @@
+{
+    "python.analysis.gotoDefinitionInStringLiteral": true,
+    "python.analysis.useLibraryCodeForTypes": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
